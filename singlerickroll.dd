@@ -1,0 +1,23 @@
+REM Title: macOS rickroll spam
+REM Author: Antonio V00 Gaming
+REM Description:Opens lots of rick rolls to a Mac OS machine
+REM Target: macOS 11.0+
+REM Version: 1.0
+REM Category: Prank
+REM Source:https://github.com/antoniov00gaming/USB-Rubberducky-Mac-os-Rickroll-Spam-payload- 
+
+DELAY 100
+DELAY 10000
+STRING Z
+DELAY 100
+STRING /
+COMMAND SPACE
+STRING TERMINAL
+ENTER
+DELAY 100
+STRING osascript -e 'set Volume 10'
+ENTER
+COMMAND SPACE
+STRING https://fwesh.yonle.repl.co/
+ENTER
+DELAY 100
