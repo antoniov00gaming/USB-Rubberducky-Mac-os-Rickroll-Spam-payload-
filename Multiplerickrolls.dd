@@ -4,7 +4,7 @@ REM Description:Opens lots of rick rolls to a Mac OS machine
 REM Target: macOS 11.0+
 REM Version: 1.0
 REM Category: Prank
-REM Source: 
+REM Source: https://github.com/antoniov00gaming/USB-Rubberducky-Mac-os-Rickroll-Spam-payload-
 
 DELAY 100
 DELAY 10000
